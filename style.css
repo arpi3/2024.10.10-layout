@@ -2,6 +2,7 @@ body
 {
 background-color: #eee;
 font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: justify;
 
 
 }
@@ -17,25 +18,35 @@ main
 
 header
 {
+    border: 2px solid #999;
+    height: 150px;
+    margin-bottom: 10px;
 
 }
 
 nav
 {
+border: 2px solid #999;
+margin-bottom: 10px;
+
 
 }
 
 section
 {
-
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid #999;
 }
 
 aside
 {
-
+    margin-bottom: 10px;
+    border: 2px solid #999;
 }
 
 footer
 {
-
+    margin-bottom: 10px;
+    border: 2px solid #999;
 }
