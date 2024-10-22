@@ -11,7 +11,7 @@ main
 {
     border: 2px solid #999;
     border-radius: 10px;
-    width: 600;
+    width: 600px;
     margin: auto;
     padding: 20px;
 }
@@ -45,8 +45,9 @@ aside
 {
     margin-bottom: 10px;
     border: 2px solid #999;
-    width: 152px;
+    width: 148px;
     float: right;
+  
 
 }
 
@@ -54,4 +55,9 @@ footer
 {
     margin-bottom: 10px;
     border: 2px solid #999;
+}
+
+.clear
+{
+    clear: both;
 }
